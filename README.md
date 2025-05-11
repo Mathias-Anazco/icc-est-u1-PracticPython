@@ -1,18 +1,10 @@
-## Getting Started
+ # UNIVERSIDAD POLITECNICA SALESIANA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
-The workspace contains two folders by default, where:
+![Figuras](figuras.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ - La comparación de los métodos de ordenamiento muestra que, en términos de notación Big-O, los algoritmos como BURBUJA tienen un mejor rendimiento promedio con \( O(n \log n) \), mientras que otros como BubbleSort tienen un peor rendimiento con \( O(n^2) \). Por lo tanto, BURBUJA es más rápido en la mayoría de los casos, especialmente para conjuntos de datos grandes. (**EJEMPLO INFORMACION INCORRECTA**)
